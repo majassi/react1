@@ -1,0 +1,27 @@
+*{
+    margin:20px;
+}
+h1{
+    color: aqua;
+    text-align: center;
+}
+button{ 
+    background-color: orange;
+    color: white;
+    border-radius: 10px;
+    margin: 0;
+    position: relative;
+    left: 50%;
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+button:hover {
+    background-color: aqua;
+    border-color: orange;
+    color: white;
+  }
+  p{
+      color: orange;
+      text-align: center;
+  }
+  
